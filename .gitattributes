@@ -1,0 +1,5 @@
+*.html linguist-language=js
+*.js eol=lf
+*.json eol=lf
+*.jsx eol=lf
+*.ts eol=lf

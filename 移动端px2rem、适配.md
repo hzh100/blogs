@@ -240,7 +240,7 @@ or
 
 https://blog.csdn.net/qq_37595946/article/details/84531311
 
-<img src="https://upload-images.jianshu.io/upload_images/14186826-d02b1df66d3dc830.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp" style="max-width: 500px">
+<img src="./images/001.jpg" style="max-width: 500px">
 
 原来这些仅仅是自定义的css属性，在需要的时候可以使用var()函数引用
 关于var()函数的作用和使用方法，参考：[MDN](https://developer.mozilla.org/zh-CN/docs/Web/CSS/:root)
@@ -265,4 +265,4 @@ body {
 
 ```
 
-<img src="https://upload-images.jianshu.io/upload_images/14186826-4361e5c1a118a65c.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp" style="max-width: 500px">
+<img src="images/002.jpg" style="max-width: 500px">

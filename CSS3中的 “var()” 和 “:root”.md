@@ -1,6 +1,6 @@
 # CSS3中的 “var()” 和 “:root”
 
-<a herf="https://blog.csdn.net/qq_37595946/article/details/84531311" target="_blank">原文链接</a>
+<a href="https://blog.csdn.net/qq_37595946/article/details/84531311" target="_blank">原文链接</a>
 
 <img src="./images/001.jpg" style="max-width: 500px">
 

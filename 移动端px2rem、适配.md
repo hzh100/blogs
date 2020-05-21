@@ -13,7 +13,7 @@
 
 <h2 id="title1">vue-cli3.0 使用postcss-plugin-px2rem（推荐）和 postcss-pxtorem（postcss-px2rem）自动转换px为rem 的配置方法；</h2>
 
-<a herf="https://www.cnblogs.com/taohuaya/p/10274993.html" target="_blank">原文链接</a>
+<a href="https://www.cnblogs.com/taohuaya/p/10274993.html" target="_blank">原文链接</a>
 
 
 ## 如何在vue-cli3.0中使用postcss-plugin-px2rem 插件
@@ -235,7 +235,7 @@ or
 
 <h2 id="title3">CSS3中的 “var()” 和 “:root”<h2>
 
-#### <a herf="https://blog.csdn.net/qq_37595946/article/details/84531311" target="_blank">原文链接</a>
+#### <a href="https://blog.csdn.net/qq_37595946/article/details/84531311" target="_blank">原文链接</a>
 
 <img src="./images/001.jpg" style="max-width: 500px">
 

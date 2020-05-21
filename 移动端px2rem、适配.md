@@ -13,9 +13,8 @@
 
 <h2 id="title1">vue-cli3.0 使用postcss-plugin-px2rem（推荐）和 postcss-pxtorem（postcss-px2rem）自动转换px为rem 的配置方法；</h2>
 
-源文件链接：
+<a herf="https://www.cnblogs.com/taohuaya/p/10274993.html" target="_blank">原文链接</a>
 
-https://www.cnblogs.com/taohuaya/p/10274993.html
 
 ## 如何在vue-cli3.0中使用postcss-plugin-px2rem 插件
 
@@ -152,7 +151,7 @@ module.exports = {
 
 <h2 id="title2">移动端适配方案<h2>
 
-## 以上内容 ： 插件的作用是 自动将vue项目中的px转换为rem
+### 以上内容 ： 插件的作用是 自动将vue项目中的px转换为rem
 ### 在postcss runtime 是，把遇到的px 按照配置规则转换为rem， 省去了在开发中css 单位用rem
 
 
@@ -236,9 +235,7 @@ or
 
 <h2 id="title3">CSS3中的 “var()” 和 “:root”<h2>
 
-原文链接
-
-https://blog.csdn.net/qq_37595946/article/details/84531311
+#### <a herf="https://blog.csdn.net/qq_37595946/article/details/84531311" target="_blank">原文链接</a>
 
 <img src="./images/001.jpg" style="max-width: 500px">
 

@@ -1,2 +1,2 @@
 # blogs
-### blogs 1
+### blogs

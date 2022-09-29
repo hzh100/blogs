@@ -1,0 +1,3 @@
+import{_ as s,c as e,o as n,a}from"./app.d95e124d.js";const f='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue/\u91CD\u5B66vue-vue.use.md","lastUpdated":1664421231375}',t={},o=a(`<p><code>Vue.use()</code></p><div class="language-js"><pre><code>Vue<span class="token punctuation">.</span><span class="token function">use</span><span class="token punctuation">(</span>Vuex<span class="token punctuation">)</span>
+Vue<span class="token punctuation">.</span><span class="token function">use</span><span class="token punctuation">(</span>router<span class="token punctuation">)</span>
+</code></pre></div>`,2),c=[o];function p(u,_,r,i,d,l){return n(),e("div",null,c)}var v=s(t,[["render",p]]);export{f as __pageData,v as default};

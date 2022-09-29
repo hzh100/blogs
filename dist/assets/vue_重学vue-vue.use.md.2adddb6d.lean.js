@@ -1,1 +1,0 @@
-import{_ as s,c as e,o as n,a}from"./app.d95e124d.js";const f='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"vue/\u91CD\u5B66vue-vue.use.md","lastUpdated":1664421231375}',t={},o=a("",2),c=[o];function p(u,_,r,i,d,l){return n(),e("div",null,c)}var v=s(t,[["render",p]]);export{f as __pageData,v as default};

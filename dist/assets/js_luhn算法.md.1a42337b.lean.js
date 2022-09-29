@@ -1,1 +1,0 @@
-import{_ as n,c as s,o as a,a as p}from"./app.d95e124d.js";const d='{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"js/luhn\u7B97\u6CD5.md","lastUpdated":1664421231358}',t={},o=p("",1),c=[o];function e(u,l,k,r,i,m){return a(),s("div",null,c)}var f=n(t,[["render",e]]);export{d as __pageData,f as default};
